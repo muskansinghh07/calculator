@@ -28,9 +28,12 @@ input,button{
   width: 70%;
   margin: 10px 0;
   font-size: 18px;
+  border:none;
+  outline: none;
+}
+input:hover{
   border: 2px solid #333;
 }
-
 button {
   width: 40%;
   background: #0c0b0b;
